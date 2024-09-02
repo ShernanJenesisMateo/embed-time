@@ -34,7 +34,7 @@ const styles = {
   clock: {
     fontSize: '48px',
     fontFamily: 'sans-serif',
-    border: '10px solid red',
+    border: '10px solid blue',
     padding: '30px',
     height: '100px',
     width: '500px',
