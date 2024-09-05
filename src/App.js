@@ -17,7 +17,7 @@ function App() {
   }, []);
 
   return (
-    <div style={styles.container}>
+    <div id='clock-container' style={styles.container}>
       <div style={styles.clock}>{time}</div>
     </div>
   );
